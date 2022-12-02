@@ -1,0 +1,19 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 10px;
+  margin: 0 auto;
+  font-family: "Roboto Mono", monospace;
+}
+button {
+  font-size: 2em;
+  font-family: "Roboto Mono", monospace;
+}
+.category {
+}
+.device {
+}
+.category p {
+  margin: 0.25em 0;
+}
